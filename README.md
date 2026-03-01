@@ -1,2 +1,2 @@
-# My_first_GIt_Demo
+# My_first_Git_Demo
 This is my first Git Repository
